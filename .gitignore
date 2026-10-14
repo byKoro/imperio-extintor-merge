@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+
+# PyInstaller / Build
+build/
+dist/
+
+# Backups and Logs
+*.bak
+*.log
+unificar.log
+conflitos.txt
+
+# OS / Editor
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
